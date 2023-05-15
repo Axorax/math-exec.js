@@ -1,0 +1,26 @@
+{
+  "name": "math-exec",
+  "version": "1.0.0",
+  "description": "Evaluate math in strings safely",
+  "main": "math-exec.js",
+  "exports": {
+    "import": "./math-exec.js",
+    "require": "./math-exec.cjs"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Axorax/math-exec.js.git"
+  },
+  "keywords": [
+    "math",
+    "math-exec",
+    "eval-math"
+  ],
+  "author": "Axorax",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Axorax/math-exec.js/issues"
+  },
+  "homepage": "https://github.com/Axorax/math-exec.js#readme"
+}
